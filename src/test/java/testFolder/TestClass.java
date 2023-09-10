@@ -6,5 +6,4 @@ public class TestClass {
 		// TODO Auto-generated method stub
 		System.out.println("This is my commit from eclipse");
 	}
-
 }
