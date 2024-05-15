@@ -6,6 +6,5 @@ public class TestClass {
 		// TODO Auto-generated method stub
 		System.out.println("This is from my local - git run");
 		System.out.println("This is from my local - git run");
-		System.out.println("This is from my local - git run");
 	}
 }
